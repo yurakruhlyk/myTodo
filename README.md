@@ -1,3 +1,3 @@
 # myTodo
 My todo list on Javascript.
-<p align="center"><img src="http://i91.fastpic.ru/big/2017/1024/d0/8ead88d8468541e2609f1a8e72bb27d0.jpg"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/16261471/33934675-47b26a5c-e002-11e7-9308-9d9119be312a.jpg"></p>
